@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimmy</h1>
-<h3 align="center">A passionate Data
+<h3 align="center">A passionate Data  Analyst. I love using Python and Jupyter Notebooks to dive into data and find meaningful insights. My expertise includes Machine Learning frameworks like [Scikit-learn]
 </h3>
 
 - 🔭 I’m currently working on **Book Recommendation using ML**
