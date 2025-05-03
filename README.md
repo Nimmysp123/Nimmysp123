@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimmy</h1>
-<h3 align="center">A passionate Data  Analyst. I love using Python and Jupyter Notebooks to dive into data and find meaningful insights. My expertise includes Python , ML frameworks like [Scikit-learn] | Visualisation tools - Excel, Tableau and Power BI |  DataBase - Mysql
+<h3 align="center">A passionate Developer. I love using Python and Jupyter Notebooks , Software development ,to dive into data and find meaningful insights. My expertise includes Frontend developing, Python , ML frameworks like [Scikit-learn] | Visualisation tools - Excel, Tableau and Power BI |  DataBase - Mysql | Langauges-Angular,Python,C#
 </h3>
 
 - 🔭 I’m currently working on **Book Recommendation using ML**
